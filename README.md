@@ -15,7 +15,7 @@
 - 在不完全資訊博弈（撲克）環境下，設計實驗並驗證新想法
 - 對標基線：CFR / DQN / PPO
 - 評估指標：勝率、收斂速度、可利用度（exploitability）
-- 👉 [專案連結](https://github.com/%3C%E4%BD%A0%E7%9A%84%E5%B8%B3%E8%99%9F%3E/%3C%E5%B0%88%E6%A1%88%E5%90%8D%3E)
+- 👉 [專案連結](https://github.com/hahahiaASA/Bigtwo)
 
 ---
 
